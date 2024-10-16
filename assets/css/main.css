@@ -22,7 +22,7 @@
 	  
 	@media (max-width: 768px) {
 		.logo img {
-		  content: url('images/LogoHorizontal.jpg');
+		  content: url('images/logoHorizontalOld.png');
 		}
 	}
 	
